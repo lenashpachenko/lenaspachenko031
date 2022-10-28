@@ -6,3 +6,4 @@
 
 #Запросы sql - https://github.com/lenashpachenko/lenaspachenko031/blob/main/sql
 
+# Запрос sql - https://github.com/lenashpachenko/lenaspachenko031/blob/main/ch.py
