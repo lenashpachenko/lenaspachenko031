@@ -10,5 +10,5 @@ SELECT * COUNT(*) FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE'
 SELECT table_name  FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'p518238' (Kukina, TIMURIUS, class, mov, movi, movies...)
 SELECT * FROM users (261)
 SELECT * FROM grades
-SELECT * FROM users, grades WHERE users.user.id = grades.useer.id (Сверчков Павел КР 5 ЛР 4)
-SELECT * FROM users WHERE fam = 'Шамова'
+SELECT * FROM users, grades WHERE users.user.id = grades.useer.id (Сверчков Павел КР 5 ЛР 4
+SELECT * FROM  users  WHERE  fam =  'Шпаченко'
