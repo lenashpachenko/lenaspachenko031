@@ -11,3 +11,4 @@
 $$\\a^{10} + b_{10} = c_10$$
 ![lagrida_latex_editor (9)](https://user-images.githubusercontent.com/116858259/201253994-5936714f-894d-4f58-ad82-f047319b3464.png)
 
+![mermaid-diagram-2022-12-23-092329](https://user-images.githubusercontent.com/116858259/209258941-9510cc5b-5326-442b-9569-ae26e5951ed2.png)
